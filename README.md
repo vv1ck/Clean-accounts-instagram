@@ -13,6 +13,6 @@ Preferred time setting from 4 seconds to 7
 -
 Supports all types of accounts 
 -
-By joker  | https://t.me/vv1ck
+By JOKER | <a class="" href="https://www.snapchat.com/add/jokermr5oos4800?">Snapchat 👻</a> | <a class="" href="http://t.me/vv1ck">telegram 🔷</a>
 -
-See
+see
