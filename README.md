@@ -10,9 +10,9 @@ There are 4 options in the tool
 install in kali linux :
 - git clone https://github.com/vv1ck/Clean-accounts-instagram.git
 - cd Clean-accounts-instagram
-- puthon3 Clean-account.py
+- python3 Clean-account.py
 
--
+
 By JOKER | <a class="" href="https://www.snapchat.com/add/jokermr5oos4800?">Snapchat 👻</a> | <a class="" href="http://t.me/vv1ck">telegram 🔷</a>
 -
 see
