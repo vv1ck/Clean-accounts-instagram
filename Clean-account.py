@@ -2,8 +2,9 @@ import requests , time
 from json import dumps
 r = requests.session()
 
-vv1ck ="""
-    _        By JOKER @t.uo       _ 
+
+print("""
+    _     By JOKER insta @221298  _ 
    / \   ___ ___ ___  _   _ _ __ | |_ ___
   / _ \ / __/ __/ _ \| | | | '_ \| __/ __|
  / ___ \ (_| (_| (_) | |_| | | | | |_\__ \ 
@@ -11,8 +12,7 @@ vv1ck ="""
 
 [1] delet following | [2] delet chat
 [3] delet your post | [4] delet Saved Post
-"""
-print(vv1ck)
+""")
 joker = input('Enter the number : ')
 print('━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━')
 time.sleep(1)
@@ -79,7 +79,7 @@ def deletSEVE():
 				poSF()
 			except IndexError:
 				print('There are no saved videos !')
-				print('Follow me | insta: t.uo | tele: vv1ck')
+				print('Follow me | insta: 221298 | tele: vv1ck')
 				exit()
 	infoSEV()
 def chatMS():
@@ -147,7 +147,7 @@ def chatMS():
 				aco()
 			except IndexError:
 				print('\nThere are no messages to delete !')
-				print('Follow me | insta: t.uo | tele: vv1ck')
+				print('Follow me | insta: 221298 | tele: vv1ck')
 				exit()
 	idCHT()
 def post():
@@ -210,7 +210,7 @@ def post():
 				pos()
 			except IndexError:
 				print('There are no videos to delete !')
-				print('Follow me | insta: t.uo | tele: vv1ck')
+				print('Follow me | insta: 221298 | tele: vv1ck')
 				exit()
 	usID()
 def folloing():
@@ -272,7 +272,7 @@ def folloing():
 				dltFLG()	
 			except IndexError:
 				print('There is no account to delete')
-				print('Follow me | insta: t.uo | tele: vv1ck')
+				print('Follow me | insta: 221298 | tele: vv1ck')
 				exit()
 	def usID():
 		global go , iid 
